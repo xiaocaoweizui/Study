@@ -1,0 +1,5 @@
+D:\StudyGit\Study\Study\bin\Study.dll
+D:\StudyGit\Study\Study\bin\Study.pdb
+D:\StudyGit\Study\Study\obj\Release\ResolveAssemblyReference.cache
+D:\StudyGit\Study\Study\obj\Release\Study.dll
+D:\StudyGit\Study\Study\obj\Release\Study.pdb
